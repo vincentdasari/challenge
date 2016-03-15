@@ -60,4 +60,4 @@ Have the simulation report the following:
 - Which numbers were selected during the drawing?
 
 ### results.md
-When you are finished with the challenge, include instructions on how to run your program in this file. Submissions that do not compile and run may not be considered. Please include instructions on how to test and verify your results.
+When you are finished with the challenge, include instructions on how to run your program in this file. Please include instructions on how to test and verify your results.
