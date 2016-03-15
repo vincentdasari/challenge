@@ -17,7 +17,7 @@ Acme Lottery Co. is developing a new Lottery Machine that will dispense differen
 - A customer is equally likely to intend to purchase any type of lottery ticket.
 - If the ticket type that a customer intended to purchase is sold out, they will attempt to purchase another type at random.
 - Customers will continue to show up until the machine is empty.
-- All customers will be available at the drawing.
+- All customers will be available at the drawing.  (i.e., the drawing can check all customers for the winners)
 - Each customer can be uniquely identified. (e.g., name or ID)
 
 ## Drawing 
@@ -52,7 +52,7 @@ Acme Lottery Co. is developing a new Lottery Machine that will dispense differen
 - The Lottery Machine should always choose a valid winner during drawings.
 
 ### Simulation Reporting
-You may want to have the simulation report the following:
+Have the simulation report the following:
 - How many customers purchased tickets?
 - What type of tickets did each customer purchase?
 - Did customers attempt to purchase sold out ticket types?
