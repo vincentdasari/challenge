@@ -29,19 +29,19 @@ Acme Lottery Co. is developing a new Lottery Machine that will dispense differen
 
 ## Lottery Ticket Types & Rules
 ### Pick 3
-- A customer buys a ticket with a random 3 digit number (e.g. 345) chosen by the Lottery Machine. 
+- A customer buys a ticket with a single random 3 digit number (e.g. 345) chosen by the Lottery Machine.
 - Valid digits are 0-9. 
 - No two tickets will have the same 3 digit number.
 - The Lottery Machine is capable of holding 50 Pick 3 tickets.
 
 ### Pick 4
-- A customer buys a ticket with a random 4 digit number (e.g. 1927) chosen by the Lottery Machine. 
+- A customer buys a ticket with a single random 4 digit number (e.g. 1927) chosen by the Lottery Machine. 
 - Valid digits are 0-9.
 - No two tickets will have the same 4 digit number.
 - The Lottery Machine is capable of holding 40 Pick 4 tickets.
 
 ### Pick 5
-- A customer buys a ticket with a random 5 digit number (e.g. 03456) chosen by the Lottery Machine. 
+- A customer buys a ticket with a single random 5 digit number (e.g. 03456) chosen by the Lottery Machine. 
 - Valid digits are 0-9.
 - No two tickets will have the same 5 digit number.
 - The Lottery Machine is capable of holding 60 Pick 5 tickets.
