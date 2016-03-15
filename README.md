@@ -11,7 +11,7 @@ Acme Lottery Co. is developing a new Lottery Machine that will dispense differen
 - Additional ticket types will be introduced in the future, but not for this simulation.
 - The price of the tickets is irrelevant for this simulation.
 - Assume that the Lottery Machine starts out completely full.
-- Once the Lottery Machine is empty, a drawing will be held. See below for drawing rules.
+- Once the Lottery Machine is empty (i.e. no tickets of any type remain), a drawing will be held. See below for drawing rules.
 
 ## Customers
 - Customers may want to purchase between 1 and 5 lottery tickets. 
