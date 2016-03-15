@@ -8,7 +8,7 @@ Acme Lottery Co. is developing a new Lottery Machine that will dispense differen
 
 ## The Lottery Machine
 - The Lottery Machine is capable of producing Pick 3, Pick 4, or Pick 5 tickets. See below for a description of the different ticket types. However, it is possible that different ticket types may be introduced in the future.
-- Assume that all ticket prices are equal.
+- The price of the tickets is irrelevant for this simulation.
 - Assume that the Lottery Machine starts out completely full.
 - Once the Lottery Machine is empty, a drawing will be held. See below for drawing rules.
 
