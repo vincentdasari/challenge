@@ -7,7 +7,8 @@ Fork this repository and implement the simulation scenario as described below. T
 Acme Lottery Co. is developing a new Lottery Machine that will dispense different types of lottery tickets to customers. Your job is to write code to simulate one complete sale cycle and drawing of the Lottery Machine's functionality to provide insight for company executives.
 
 ## The Lottery Machine
-- The Lottery Machine is capable of producing Pick 3, Pick 4, or Pick 5 tickets. See below for a description of the different ticket types. However, it is possible that different ticket types may be introduced in the future.
+- The Lottery Machine is capable of producing Pick 3, Pick 4, or Pick 5 tickets. See below for a description of the different ticket types.
+- Additional ticket types will be introduced in the future, but not for this simulation.
 - The price of the tickets is irrelevant for this simulation.
 - Assume that the Lottery Machine starts out completely full.
 - Once the Lottery Machine is empty, a drawing will be held. See below for drawing rules.
